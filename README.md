@@ -1,12 +1,5 @@
 <h1 align="center">BetterDiscord Installer</h1>
 
-<p align="center">
-  <a href="#overview">Overview</a> |
-  <a href="#development">Development</a> |
-  <a href="#contributors">Contributors</a>
-</p>
-
-<p align="center">
   <img alt="Preview" width="524" alt="Hero image" src="https://i.imgur.com/evmFCAf.png"/>
   <br/>
   A simple standalone program which automates the installation, removal and maintenance of <a href="https://github.com/BetterDiscord/BetterDiscord">BetterDiscord</a>.
